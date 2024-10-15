@@ -1,12 +1,4 @@
-# NAME: WeChat
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:17:23
-# HOST: 18
-# HOST-SUFFIX: 22
-# IP-ASN: 1
-# USER-AGENT: 2
-# TOTAL: 43
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,WeChat
 HOST,btrace.qq.com,WeChat
 HOST,dl.wechat.com,WeChat
@@ -51,10 +43,9 @@ USER-AGENT,MicroMessenger*,WeChat
 USER-AGENT,WeChat*,WeChat
 IP-ASN,132203,WeChat
 #game
-host-suffix, df.qq.com
-host-suffix, bb.qq.com
-host-suffix, wetest.qq.com
-host-suffix, jkchess.com
-host-wildcard, dldir1*.qq.com
-host-suffix, cfm.qq.com
-host-suffix, ninebot.com
+HOST-SUFFIX, df.qq.com
+HOST-SUFFIX, bb.qq.com
+HOST-SUFFIX, wetest.qq.com
+HOST-SUFFIX, jkchess.com
+HOST-SUFFIX, cfm.qq.com
+HOST-SUFFIX, ninebot.com
