@@ -51,7 +51,6 @@ USER-AGENT,MicroMessenger*,WeChat
 USER-AGENT,WeChat*,WeChat
 IP-ASN,132203,WeChat
 #game
-host-suffix, bh3.mihoyo.com
 host-suffix, df.qq.com
 host-suffix, bb.qq.com
 host-suffix, wetest.qq.com
