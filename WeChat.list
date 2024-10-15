@@ -43,9 +43,9 @@ USER-AGENT,MicroMessenger*,WeChat
 USER-AGENT,WeChat*,WeChat
 IP-ASN,132203,WeChat
 #game
-HOST-SUFFIX,df.qq.com
-HOST-SUFFIX,bb.qq.com
-HOST-SUFFIX,wetest.qq.com
-HOST-SUFFIX,jkchess.com
-HOST-SUFFIX,cfm.qq.com
-HOST-SUFFIX,ninebot.com
+HOST-SUFFIX,df.qq.com,direct
+HOST-SUFFIX,bb.qq.com,direct
+HOST-SUFFIX,wetest.qq.com,direct
+HOST-SUFFIX,jkchess.com,direct
+HOST-SUFFIX,cfm.qq.com,direct
+HOST-SUFFIX,ninebot.com,direct
