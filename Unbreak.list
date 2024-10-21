@@ -10,9 +10,9 @@ DOMAIN,bdtj.tagtic.cn
 # > alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
-# > bilibili(视频会卡顿)
-#DOMAIN-SUFFIX,bilivideo.cn
-#DOMAIN-SUFFIX,bilivideo.com
+# > bilibili
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,mcdn.bilivideo.com
 # > google
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,googletraveladservices.com
