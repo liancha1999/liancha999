@@ -11,8 +11,8 @@ DOMAIN,bdtj.tagtic.cn
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
 # > bilibili
-DOMAIN-SUFFIX,szbdyd.com
-DOMAIN-SUFFIX,mcdn.bilivideo.com
+#DOMAIN-SUFFIX,szbdyd.com
+#DOMAIN-SUFFIX,mcdn.bilivideo.com
 # > google
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,googletraveladservices.com
