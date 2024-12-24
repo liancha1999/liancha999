@@ -1839,6 +1839,7 @@ HOST-KEYWORD,testflight,Apple
 HOST-KEYWORD,icloud.com.akadns.net,Apple
 HOST-KEYWORD,icloud,Apple
 HOST-KEYWORD,apple,Apple
+HOST-KEYWORD,itunes,Apple
 USER-AGENT,*FindMyiPhone?,Apple
 USER-AGENT,*Music?,Apple
 USER-AGENT,*WeatherFoundation*,Apple
