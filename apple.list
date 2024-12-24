@@ -17,7 +17,6 @@ HOST,api-p-ap-e.smoot.apple.com,Apple
 HOST,api.apps.apple.com,Apple
 HOST,api.smoot.apple.cn,Apple
 HOST,app-site-association.cdn-apple.com,Apple
-HOST,appldnld.apple.com,Apple
 HOST,appldnld.apple.com.edgesuite.net,Apple
 HOST,appldnld.g.aaplimg.com,Apple
 HOST,apple-events.akamaized.net,Apple
@@ -104,7 +103,6 @@ HOST,gspe79-cn-ssl.ls.apple.com,Apple
 HOST,gspe85-cn-ssl.ls.apple.com,Apple
 HOST,guzzoni-apple-com.v.aaplimg.com,Apple
 HOST,guzzoni.smoot.apple.com,Apple
-HOST,iadsdk.apple.com,Apple
 HOST,icloud-cdn.icloud.com.akadns.net,Apple
 HOST,icloud.cdn-apple.com,Apple
 HOST,icons.axm-usercontent-apple.com,Apple
@@ -144,7 +142,6 @@ HOST,lookup-api.apple.com.edgekey.net,Apple
 HOST,maps.apple.com,Apple
 HOST,mesu-cdn.apple.com.akadns.net,Apple
 HOST,mesu-china.apple.com.akadns.net,Apple
-HOST,mesu.apple.com,Apple
 HOST,ml.cdn-apple.com,Apple
 HOST,music.apple.com,Apple
 HOST,ocsp-lb.apple.com.akadns.net,Apple
@@ -220,7 +217,6 @@ HOST,weatherkit.apple.com,Apple
 HOST,www.apple.com,Apple
 HOST,www.apple.com.edgekey.net,Apple
 HOST,www.apple.com.edgekey.net.globalredir.akadns.net,Apple
-HOST,xp.apple.com,Apple
 HOST,aod-ssl.itunes.apple.com,Apple
 HOST,aod.itunes.apple.com,Apple
 HOST,audio-ssl.itunes.apple.com,Apple
