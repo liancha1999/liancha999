@@ -1,0 +1,47 @@
+# Primary Google domains
+203.208.41.66 google.com
+
+# Gmail
+203.208.41.66 mail.google.com
+
+# Google Drive
+203.208.41.66 drive.google.com
+
+# Google Play
+203.208.41.66 play.google.com
+
+# YouTube (May improve connection to some YouTube services)
+203.208.41.66 youtube.com
+203.208.41.66 youtu.be
+
+# Primary Google domains
+203.208.41.66 google.com
+
+# Gmail
+203.208.41.66 mail.google.com
+
+# Google Drive
+203.208.41.66 drive.google.com
+
+# Google Play
+203.208.41.66 play.google.com
+
+# YouTube (May improve connection to some YouTube services)
+203.208.41.66 youtube.com
+203.208.41.66 youtu.be
+
+# Google Static Content
+203.208.41.66 gstatic.com
+203.208.41.66 googleapis.com
+
+# Google Cloud Platform
+203.208.41.66 cloud.google.com
+
+# Firebase
+203.208.41.66 firebase.google.com
+
+# Chrome
+203.208.41.66 chrome.google.com
+
+# Googleusercontent (for various static content)
+203.208.41.66 googleusercontent.com
