@@ -8,7 +8,7 @@ HOST,dns.weixin.qq.com
 HOST,dns.google
 
  # 哔哩哔哩私有DNS
-HOST,httpdns.bilivideo.com
+#HOST,httpdns.bilivideo.com
     # KEY_EXT_P2P_HTTPDNS_BILI_IP
 IP-CIDR,47.101.175.206/32
 IP-CIDR,47.100.123.169/32
