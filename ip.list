@@ -20,7 +20,7 @@
     - DOMAIN-SUFFIX,bilivideo.com,DIRECT # 直播
     - DOMAIN-SUFFIX,akamaized.net,DIRECT # akamai视频CDN
     - DOMAIN-SUFFIX,hdslb.com,DIRECT # 静态内容
-    - DOMAIN-SUFFIX,szbdyd.com,DIRECT # PCDN(P2P)
+    #- DOMAIN-SUFFIX,szbdyd.com,DIRECT # PCDN(P2P)
     # - DOMAIN,api.bilibili.com # 哔哩哔哩国内网页版API域名 # 网友提供哔哩哔哩IP定位接口
     # - DOMAIN,app.bilibili.com # 哔哩哔哩App的API域名
     # - DOMAIN,api.live.bilibili.com # 哔哩哔哩直播API域名
@@ -35,8 +35,8 @@
 
 # ======= 国家反诈中心 ======= #
     # 国家反诈中心App
-    # - DOMAIN-SUFFIX,gjfzpt.cn,REJECT # 国家反诈中心域名，全部阻断
-    # - IP-CIDR,219.143.187.136/32,REJECT # 用途未知
+     - DOMAIN-SUFFIX,gjfzpt.cn # 国家反诈中心域名，全部阻断
+     - IP-CIDR,219.143.187.136/32 # 用途未知
     
 # ======= 小黑盒 ======= #
     # 小黑盒主域名，包括文章之类（图片CDN等静态资源不在此域名范围内）
