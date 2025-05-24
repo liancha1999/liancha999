@@ -15,7 +15,7 @@
     # - HOST,api.bilibili.tv ,哔哩哔哩海外版？（使用性存疑）
     - HOST-SUFFIX,biliapi.com ,哔哩哔哩App的API域名
     - HOST-SUFFIX,bilibili.com ,哔哩哔哩全站域名，不包括内容CDN
-    - IP-CIDR,203.107.1.0/24 ,不需要REJECT，会影响其他HTTPDNS，仅代理即可
+    # - IP-CIDR,203.107.1.0/24 ,不需要REJECT，会影响其他HTTPDNS，仅代理即可
     # issue/49,CDN内容直连
     - HOST-SUFFIX,bilivideo.com,DIRECT ,直播
     - HOST-SUFFIX,akamaized.net,DIRECT ,akamai视频CDN
